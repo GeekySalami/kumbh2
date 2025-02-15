@@ -22,9 +22,9 @@ function Navbar() {
           <img 
             src="iitb.png" 
             alt="IITB Logo" 
-            className="h-[5vw]"
+            className="h-10 sm:w-12 sm:h-12 md:w-16 md:h-16"
           />
-          <p className="text-[#004f9f] text-[1vw] ">
+          <p className="text-[#004f9f] text-xs  ">
             An Initiative From<br/>Indian Institute Of Technology Bombay,<br/>CSE Department
           </p>
         </div>

@@ -34,7 +34,7 @@ export default function Home() {
       <div className="justify-center text-center p-4">
         <p className="text-[3vw] underline">Contributors:</p>
         <br/>
-        <div className="flex justify-between p-5">
+        <div className="flex justify-between p-5 flex-wrap">
         <Contributors key="1" name="Smt. Sree Nischala Manyam" position="Research Scholar, Dharmawiki.org" imgurl= "Nischala.JPG" />
         <Contributors key="2" name="Ganesh Ramakrishnan" position="Professor, CSE Department, IIT Bombay" imgurl="ganeshramakrishnan.png"/>
         <Contributors key="3" name="Priya Mishra" position="Research scholar, IIT Bombay" imgurl="Priya.JPG" />
