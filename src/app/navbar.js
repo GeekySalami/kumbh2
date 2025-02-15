@@ -24,7 +24,7 @@ function Navbar() {
             alt="IITB Logo" 
             className="h-10 sm:w-12 sm:h-12 md:w-16 md:h-16"
           />
-          <p className="text-[#004f9f] text-xs  ">
+          <p className="text-[#004f9f] lg:text-xs  text-[2vw]  ">
             An Initiative From<br/>Indian Institute Of Technology Bombay,<br/>CSE Department
           </p>
         </div>
