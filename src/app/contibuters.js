@@ -6,9 +6,9 @@ const Contributors = ({ imgurl, name, position }) => {
         <img
             src={imgurl}
             alt={name}
-            className="w-[5vw] h-[5vw] rounded-full mx-auto"/>
-      <p className="text-[1vw] font-semibold">{name}</p>
-      <p>{position}</p>
+            className="w-[8vw] h-[8vw] rounded-full mx-auto"/>
+      <p className="text-[1.35vw] font-semibold pt-3">{name}</p>
+      <p className="text-[1vw]">{position}</p>
     </div>
   );
 };

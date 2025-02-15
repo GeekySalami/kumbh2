@@ -30,9 +30,9 @@ function Navbar() {
         </div>
 
         {/* Right Section - Language Toggle */}
-        <div className="flex-shrink-0">
+        {/* <div className="flex-shrink-0">
           <LanguageToggle />
-        </div>
+        </div> */}
       </nav>
     </div>
   );
